@@ -8,7 +8,7 @@ for i in range(1, T + 1):
     B = []
     for j in A:
         if j % 2 :
-            B.append(j)
+            B.append(j) 
         else :
             pass
         C = sum(B)
